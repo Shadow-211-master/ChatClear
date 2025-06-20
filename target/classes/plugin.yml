@@ -1,0 +1,11 @@
+name: ClearChat
+version: '1.0-Beta'
+main: de.Jayluk.chatClear.ChatClear
+api-version: 1.21
+
+
+commands:
+  clearchat:
+    description: Leert den Chat
+    usage: /clearchat
+    permission: clearchat.use
